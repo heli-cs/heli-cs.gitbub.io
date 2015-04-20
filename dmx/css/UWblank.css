@@ -297,16 +297,6 @@ html>body #contentbar {
     padding:3px;
 }
 
-#primarycontent a {
-    border-bottom:dotted 1px #000;
-} 
-
-a:hover, a:focus {
-	text-decoration:none;
-    color:#72af2c;
-     border-bottom:dotted 1px #72af2c;
-}	
-
 									/* some custom CSS to tables script */
 #contenttable {
 	padding-top: 4px;
