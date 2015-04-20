@@ -1,0 +1,102 @@
+A:link {
+	COLOR: #505050; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #505050; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #ff8000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.a1:link {
+	COLOR: #003366; TEXT-DECORATION: none
+}
+.a1:visited {
+	COLOR: #003366; TEXT-DECORATION: none
+}
+.a1:active {
+	COLOR: #3366cc; TEXT-DECORATION: none
+}
+.a1:hover {
+	COLOR: #dd3333; TEXT-DECORATION: underline
+}
+H4 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 20px; COLOR: #006790; FONT-FAMILY: "黑体"; TEXT-DECORATION: none
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #f6f6f6; FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #cccccc; SCROLLBAR-3DLIGHT-COLOR: #cccccc; SCROLLBAR-ARROW-COLOR: #330000; SCROLLBAR-TRACK-COLOR: #f6f6f6; FONT-FAMILY: Verdana, "sans-serif", "宋体"; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; TEXT-DECORATION: none
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana,"sans-serif", Arial, "宋体"
+}
+TH {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana,"sans-serif", Arial, "宋体"
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana,"sans-serif", Arial, "宋体"
+}
+.tinyx {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Verdana,"sans-serif","宋体"
+}
+UL {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 5px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 30px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 5px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 30px; PADDING-TOP: 0px
+}
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; TEXT-INDENT: 25px; LINE-HEIGHT: 20px; PADDING-TOP: 0px
+}
+LI {
+	LINE-HEIGHT: 20px
+}
+TEXTAREA {
+	BORDER-RIGHT: #8080ff 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #8080ff 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 12px; MARGIN-BOTTOM: 1px; PADDING-BOTTOM: 5px; BORDER-LEFT: #8080ff 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #8080ff 1px solid; FONT-FAMILY: Verdana,Arial,"宋体"; wrap: logical
+}
+.btn {
+	BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; BORDER-LEFT: #ffffff 1px ridge; BORDER-BOTTOM: 1px ridge; BACKGROUND-COLOR: #cccccc
+}
+.edt {
+	BORDER-RIGHT: #bfd0e2 1px double; BORDER-TOP: #bfd0e2 1px double; FONT-SIZE: 12px; BORDER-LEFT: #bfd0e2 1px double; COLOR: #000000; BORDER-BOTTOM: #bfd0e2 1px double; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #ffffff
+}
+.sbox {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: "sans-serif", Arial, Helvetica; HEIGHT: 18px
+}
+.pptitle {
+	FONT-SIZE: 11px; COLOR: #404040; LINE-HEIGHT: 14px; FONT-FAMILY: "sans-serif", Arial, Helvetica
+}
+.pptitle1 {
+	FONT-SIZE: 13px; COLOR: #000000; LINE-HEIGHT: 17px; FONT-FAMILY: Arial, "sans-serif"
+}
+.tInner {
+	BACKGROUND: #6394bd
+}
+.tWhite {
+	BACKGROUND: #ffffff
+}
+.tHighLight {
+	BACKGROUND: #d8d8d8
+}
+.tHead {
+	BACKGROUND: url(http://www.ntu.edu.sg/home/rxlu/img/catbga.gif) #c6c6c6
+}
+.tdall {
+	BORDER-RIGHT: #6394bd 1px solid; BORDER-TOP: #6394bd 1px solid; BORDER-LEFT: #6394bd 1px solid; BORDER-BOTTOM: #6394bd 1px solid
+}
+.tdtop {
+	BORDER-RIGHT: #6394bd 1px solid; BORDER-TOP: #6394bd 1px solid; BORDER-LEFT: #6394bd 1px solid; BORDER-BOTTOM: #6394bd 0px solid
+}
+.tdbot {
+	BORDER-RIGHT: #6394bd 1px solid; BORDER-TOP: #6394bd 0px solid; BORDER-LEFT: #6394bd 1px solid; BORDER-BOTTOM: #6394bd 1px solid
+}
+.tdmid {
+	BORDER-RIGHT: #6394bd 1px solid; BORDER-TOP: #993300 0px solid; BORDER-LEFT: #6394bd 1px solid; BORDER-BOTTOM: #993300 0px solid
+}
+.tditem {
+	BORDER-RIGHT: black 0px dashed; BORDER-TOP: black 0px dashed; BORDER-LEFT: black 0px dashed; BORDER-BOTTOM: #666666 1px dashed
+}
+HR {
+	COLOR: #8080ff; HEIGHT: 1px
+}

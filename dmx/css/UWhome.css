@@ -1,0 +1,57 @@
+/*
+CSS Document and design created by Jesse Rodgers, jrodgers@alumni.uwaterloo.ca, as part of the
+UW Global XHTML/CSS template.
+
+Copyright 2005 University of Waterloo, Communications and Public Affairs
+*/
+
+/* This style sheet controls home page layout. */
+/* You may copy any part of this file */
+
+/* version 1.1, August 8, 2005 http://web.uwaterloo.ca/documentation/clforgeeks/v1p1.html */
+/* W3 valid CSS */
+
+#collage {
+	padding: 0px;
+	margin: 0 0 0 3px;
+	width: 590px;
+	height: 145px;
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	width: 589px;
+	}
+	
+html>body #collage {
+	width: 589px;
+	}
+/* Secondary Nav setup */
+#secondnavarea {
+	position:absolute;
+	top: 238px;
+	width: 165px;
+	_margin-top: 5px; /* hack for IE 6 */
+	margin-left: 589px;
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	top: 238px;
+	}
+html>body #secondnavarea {
+	top: 238px;
+	}
+#secondnav li {
+	margin-left: 10px;
+	margin-top: 8px;
+	margin-bottom: 9px;
+	padding-bottom: 2px;
+	}
+/* Content space from top */
+#primarycontent p {
+	margin-top: 0px;
+	}	
+#primarynavarea {
+	position:absolute;
+	top: 82px;
+}
+#primarycontarea {
+	padding: 0px;
+}
