@@ -299,10 +299,25 @@ html>body #contentbar {
 #primarycontentnav {
 	font-size: 80%;
 	}
-    
-#primarycontent li {
-    padding:3px;
+#primarycontent ol{
+list-style-type: none; 
+counter-reset:o-counter 0;
+} 
+
+#primarycontent ol li:before{
+display: inline-block;
+  content: '[' counter(o-counter) '] ';
+  counter-increment: o-counter;
+  width: 3em;
+    margin-left: -3em;
 }
+#primarycontent ol li {
+padding:3px;
+}
+
+
+
+
 
 									/* some custom CSS to tables script */
 #contenttable {
